@@ -1,6 +1,6 @@
 # Level One: The AssociateProfitSplitter Contract
 
-## Level One is an AssociateProfitSplitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+## Level One is an AssociateProfitSplitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently. Below are my step-by-step instructions with screenshots to show how the contract was deployed and the completed transactions.
 
 _______
 

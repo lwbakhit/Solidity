@@ -27,3 +27,7 @@ _______
 ### The last step is to Transact the contract and let the code send the payments to the employees. 
 
 ![transact](./Screenshots/Transact.PNG)
+
+### As you can see in the capture below; each address that was assigned to the employees has a new value from the deployed contract payment. 
+
+![transact](./Screenshots/Paid_employee_balances.PNG)
